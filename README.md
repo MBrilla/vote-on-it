@@ -4,22 +4,22 @@ A real-time voting application built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Features
 
-### 🗳️ Create Polls
+### Create Polls
 - Simple poll creation with multiple options
 - Set custom end dates for your polls
 - Add descriptions to provide context
 
-### 🌐 Real-time Updates
+### Real-time Updates
 - Live results as people vote
 - No page refresh needed
 - Instant feedback on your polls
 
-### 📱 Responsive Design
+### Responsive Design
 - Works on desktop and mobile devices
 - Clean, modern UI with Tailwind CSS
 - Intuitive interface for all users
 
-### 🚀 Quick to Use
+### Quick to Use
 - No signup required to vote
 - Easy sharing with unique poll links
 - View results in real-time
