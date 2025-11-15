@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "app/api/sse/route.ts": {
+      "maxDuration": 300
+    }
+  }
+}
